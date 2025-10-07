@@ -1,0 +1,27 @@
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.form-field__label {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+}
+
+.form-field__required {
+  color: #dc3545;
+  margin-left: 0.25rem;
+}
+
+.form-field__input {
+  position: relative;
+}
+
+.form-field__error {
+  color: #dc3545;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}

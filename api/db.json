@@ -22,6 +22,22 @@
       "isArchived": false,
       "description": "Описание продукции\nВ несколько строк",
       "createdAt": "2024-01-23T16:08:24.630Z"
+    },
+    {
+      "packsNumber": 114,
+      "packageType": "компрессия",
+      "isArchived": false,
+      "description": "1111111",
+      "createdAt": "2025-10-07T19:58:34.772Z",
+      "id": "1Ce9CMg"
+    },
+    {
+      "packsNumber": 222,
+      "packageType": "компрессия",
+      "isArchived": true,
+      "description": "2222",
+      "createdAt": "2025-10-07T19:58:44.561Z",
+      "id": "ebp6nIa"
     }
   ]
 }
